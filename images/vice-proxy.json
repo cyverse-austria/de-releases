@@ -1,5 +1,5 @@
 {
   "repository": "https://github.com/cyverse-de/vice-proxy",
-  "release": "v2025.05.06",
-  "image": "docker.io/mbwali/vice-proxy:latest2"
+  "release": "vice-proxy",
+  "image": "mbwali/vice-proxy:go"
 }
